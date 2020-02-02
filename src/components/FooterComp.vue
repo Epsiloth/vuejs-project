@@ -5,7 +5,7 @@
 		  <p>Developed by Pablo Torres.</p>
 		</div>
 		<div>
-		  <p>Code available in <a class="text-green text-decoration-none" href="https://github.com/Epsiloth/vuejs-project">Github</a>.</p>
+		  <p>Code available in <a class="text-info text-decoration-none" href="https://github.com/Epsiloth/vuejs-project">Github</a>.</p>
 		</div>
 	</div>
   </footer>
